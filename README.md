@@ -8,8 +8,6 @@
 This is a simple boilerplate for getting started with TypeScript game-scripts, in FiveM.
 </div>
 
-<div align="center">
-
 This repository is a basic boilerplate for getting started
 with TypeScript resources in FiveM. This boilerplate only comes with
 development dependencies needed for FiveM-centered TypeScript transpilation, the rest
